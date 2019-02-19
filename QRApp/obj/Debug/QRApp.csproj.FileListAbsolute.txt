@@ -1,0 +1,16 @@
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\QRApp.exe.config
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\QRApp.exe
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\QRApp.pdb
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\obj\Debug\QRApp.Form_QR.resources
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\obj\Debug\QRApp.Properties.Resources.resources
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\obj\Debug\QRApp.csproj.GenerateResource.Cache
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\obj\Debug\QRApp.exe
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\obj\Debug\QRApp.pdb
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\zxing.dll
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\zxing.presentation.dll
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\zxing.pdb
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\zxing.xml
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\zxing.presentation.pdb
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\zxing.presentation.xml
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\obj\Debug\QRApp.csprojResolveAssemblyReference.cache
+C:\Users\hassan\Desktop\Project\QRApp\QRApp\bin\Debug\jetpacktocat.png
