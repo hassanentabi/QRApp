@@ -18,3 +18,8 @@ It has been ported by hand with a lot of optimizations and improvements.
 [github ZXing.Net] (https://github.com/micjahn/ZXing.Net)
 <br>
 [nuget ZXing.Net] (https://www.nuget.org/packages/ZXing.Net/0.16.2)
+
+**Download**
+---
+download QRApp.exe File to Test 
+[QEApp.EXE]https://github.com/hassanentabi/QRApp/raw/master/QRApp/bin/Debug/QRApp.exe
